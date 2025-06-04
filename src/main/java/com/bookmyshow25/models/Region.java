@@ -9,5 +9,5 @@ import java.util.List;
 @Setter
 public class Region extends BaseModel{
     private String name;
-//    private List<Theatre> theatres;
+    private List<Theatre> theatres;
 }
